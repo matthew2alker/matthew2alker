@@ -1,16 +1,18 @@
-## Hi there 👋
+## About Me
 
-<!--
-**matthew2alker/matthew2alker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have over 10 years of experience building websites and web applications. My expertise includes PHP and JavaScript frameworks such as Laravel, Symfony, React, and Vue.js and I have successfully delivered numerous projects across various industries, including e-commerce, finance, healthcare, and construction.
 
-Here are some ideas to get you started:
+I'm also proficient in modern development practices, including Agile methodologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Deployment (CI/CD). I'm passionate about leveraging cutting-edge technology to solve complex problems and drive business success. I'm ready to bring my skills and experience to Upwork clients!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Backend: PHP, Laravel, Symfony, CodeIgniter
+- Frontend: HTML5, CSS3, JavaScript, jQuery, React, Vue.js
+- CMS: WordPress, Drupal
+- Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- API Development & Integration: RESTful APIs, GraphQL
+- DevOps Tools: Docker, Kubernetes, Jenkins, GitLab CI/CD
+- Cloud Platforms: AWS, Google Cloud Platform (GCP), Vercel
+- Version Control: Git, GitHub, Bitbucket
+- Project Management Tools: Jira, Trello, Asana
+- Agile Methodologies: Scrum, Kanban
